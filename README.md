@@ -1,2 +1,1 @@
-# ai-training
-ai training
+пошла нахуй
